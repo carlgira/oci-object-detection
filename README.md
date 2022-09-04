@@ -2,7 +2,7 @@
 
 # OCI Object detection
 
-The idea with this notebook is to create a custom dataset, using the datalabeling and vision service of OCI, to detect different types of dates-fruit.
+The idea with this notebook is to create a custom dataset, using the datalabeling and vision service of Oracle Cloud, to detect different types of dates-fruit.
 
 I wrote a blog explaining how to use this repository https://medium.com/@carlgira/ai-vision-model-on-oci-for-object-detection-c47ac63114fc
 
